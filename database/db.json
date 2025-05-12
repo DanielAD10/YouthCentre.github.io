@@ -1,0 +1,61 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Post One",
+            "body": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "tags": [
+                "web dev",
+                "vuejs"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Post Two",
+            "body": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "tags": [
+                "web dev",
+                "vuejs",
+                "html",
+                "php"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Post Three",
+            "body": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "tags": [
+                "php",
+                "vuejs",
+                "programming"
+            ]
+        }
+    ],
+    "faqs": [
+        {
+            "id": 1,
+            "question": "How do I reset my password if I've forgotten it?",
+            "answer": "If you've forgotten your password, you can reset it by clicking the 'Forgot Password' link on the login page. You'll be prompted to enter your email address associated with your account. We'll then send you an email with instructions on how to create a new password. Please check your spam or junk folder if you don't see the email in your inbox within a few minutes."
+        },
+        {
+            "id": 2,
+            "question": "What are your business hours?",
+            "answer": "Our standard business hours are Monday through Friday, from 9:00 AM to 5:00 PM [Your Time Zone]. We are closed on major holidays. For after-hours support, please refer to our online help resources or submit a support ticket, and we'll get back to you as soon as possible during our next business day."
+        },
+        {
+            "id": 3,
+            "question": "How do I return an item I purchased?",
+            "answer": "To return an item, please visit our 'Returns' page on our website. You'll find detailed instructions on how to initiate a return, including our return policy and shipping guidelines. Generally, you'll need your order number and the reason for the return. You can also contact our customer service team for assistance with the return process."
+        },
+        {
+            "id": 4,
+            "question": "Do you offer international shipping?",
+            "answer": "Yes, we offer international shipping to most countries. Shipping costs and delivery timesvary depending on the destination. 2  You can find detailed information about international shipping, including a list of countries we ship to and estimated delivery times, on our 'Shipping Information' page during the checkout process."
+        },
+        {
+            "id": 5,
+            "question": "How can I contact customer support?",
+            "answer": "You can contact our customer support team through several methods: <ul><li><b>Email:</b> Send us an email at [Your Support Email Address].</li><li><b>Phone:</b> Call us at [Your Support Phone Number] during our business hours.</li><li><b>Live Chat:</b> Use the live chat feature on our website for instant assistance.</li><li><b>Support Ticket:</b> Submit a support ticket through our online help center.</li></ul>We strive to respond to all inquiries as quickly as possible."
+        }
+    ]
+}
