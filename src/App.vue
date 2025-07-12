@@ -23,7 +23,7 @@ import NavBar from './components/NavBar.vue';
 }
 
 body {
-  background-color: #F8FAFC;
+  background-color: #ffffff; /* Matches the logo's light blue */
   padding: 0;
   margin: 0;
 }

@@ -2,7 +2,7 @@
   <div class="tag-cloud">
     <div>
         <h3>
-            Tag Cloud
+            Course Tags
             <span class="refresh-icon" @click="clearActiveTag">🔄</span>
         </h3>
         

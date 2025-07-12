@@ -1,10 +1,12 @@
 <template>
   <header>
     <div class="logo">
-        <router-link :to="{name: 'home'}"><img src="../assets/logo.png" alt=""></router-link>
+        <router-link :to="{name: 'home'}"><img src="../assets/logo.jpg" alt=""></router-link>
     </div>
     <nav>
         <router-link :to="{name:'home'}">Home</router-link>
+        <router-link :to="{name:'courses'}">Courses</router-link>
+        <!-- <router-link :to="{name:'home'}">About</router-link> -->
         <router-link :to="{name:'faqs'}">FAQs</router-link>
     </nav>
     <!-- <div>
@@ -24,9 +26,11 @@ export default {
         display: flex;
         justify-content: space-evenly;
         align-items: center;
-        max-width: 1200px;
-        margin: 0 auto;
+        margin-bottom: 20px;
+        /* max-width: 1200px; */
+        /* margin: 0 auto; */
         padding: 10px;
+        background-color: #ffffff; /* Matches the logo's light blue */
     }
     .logo img {
         max-width: 100px;

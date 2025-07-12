@@ -8,7 +8,8 @@
 import SinglePost from './SinglePost.vue';
 
 export default {
-  components: { SinglePost },
+  components: {
+    SinglePost },
     props:['posts'],    
     setup(props){
         
@@ -18,5 +19,11 @@ export default {
 </script>
 
 <style>
-
+  
+  /* .courses-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 20px;
+  } */
 </style>

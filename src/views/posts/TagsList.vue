@@ -44,4 +44,10 @@ export default {
     max-width: 1200px;
     margin: 0 auto;
   }
+  .layout {
+    display: grid;
+    grid-template-columns: 3fr, 1fr;
+    gap: 20px;
+    padding: 20px;
+  }
 </style>
